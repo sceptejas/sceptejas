@@ -19,11 +19,11 @@ I am a tech optimist and an avid fan of decentralization. My passion lies in blo
 
 ## Let's Connect!
 - [LinkedIn](linkedin.com/in/tejasvi-kr/)
-- [Twitter](https://twitter.com/sceptejas)
+- [Twitter](https://twitter.com/scepTejas)
 - [Email](mailto:sceptejas@proton.me)
 
 Feel free to reach out if you want to discuss blockchain technology, smart contracts, or any interesting tech projects!
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/sceptejas)
+⭐️ From [Tejasvi](https://github.com/sceptejas)
