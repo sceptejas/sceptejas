@@ -13,8 +13,9 @@ I am a tech optimist and an avid fan of decentralization. My passion lies in blo
 - **Fullstack Development**: Combining frontend and backend skills to build robust applications.
 
 ## Current Projects
-- **tokapack**: Creating seameless libraries that will enable founders to tokenize their in app items using reactjs along with solidity, also an exchange for seamless tokenization of real world digital informaticas (stocks, bonds, documents, etc.)
-- **Web Development**: Creating dynamic and user-friendly web applications using JavaScript, ReactJS, and Tailwind CSS for a friend whose company is based around rpoviding tour packages and impementing dynamic pricing on that application 
+- **Tokapack**: Creating seameless libraries that will enable founders to tokenize their in app items using reactjs along with solidity, also an exchange for seamless tokenization of real world digital informaticas (stocks, bonds, documents, etc.)
+- **Laire**: Third party contractor Building MVPs and A/B testing them untill PMF. 
+- **Web Development**: Creating dynamic and user-friendly web applications using JavaScript, Django, and Tailwind CSS for a friend whose company is based around rpoviding tour packages and impementing dynamic pricing on that application 
 - **Moon Navigation Project**: Identifying safe navigation routes on the Moon using Chandrayaan images.
 
 ## Let's Connect!
