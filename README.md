@@ -14,7 +14,6 @@ I am a tech optimist and an avid fan of decentralization. My passion lies in blo
 
 ## Current Projects
 - **Tokapack**: Creating seameless libraries that will enable founders to tokenize their in app items using reactjs along with solidity, also an exchange for seamless tokenization of real world digital informaticas (stocks, bonds, documents, etc.)
-- **Laire Ecosystem**: Chief Technical Officer at Laire, A Third party contractor Building MVPs and A/B testing them untill PMF. 
 - **Web Development**: Creating dynamic and user-friendly web applications using JavaScript, Django, and Tailwind CSS for a friend whose company is based around rpoviding tour packages and impementing dynamic pricing on that application 
 - **Moon Navigation Project**: Identifying safe navigation routes on the Moon using Chandrayaan images.
 
