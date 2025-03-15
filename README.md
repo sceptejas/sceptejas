@@ -18,7 +18,7 @@ I am a tech optimist and an avid fan of decentralization. My passion lies in blo
 - **Moon Navigation Project**: Identifying safe navigation routes on the Moon using Chandrayaan images.
 
 ## Let's Connect!
-- [LinkedIn](linkedin.com/in/tejasvi-kr/)
+- [LinkedIn](https://www.linkedin.com/in/tejasvi-kr/)
 - [Twitter](https://twitter.com/scepTejas)
 - [Email](mailto:sceptejas@proton.me)
 
